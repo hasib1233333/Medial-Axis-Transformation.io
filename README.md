@@ -20,5 +20,3 @@ HIS  skeletonization techniques originate from Blum's medial axis transform (MAT
  
 
    
-Figure 1  Medial Axis Transformation Technique
-<img width="520" height="691" alt="image" src="https://github.com/user-attachments/assets/5f16e376-7656-4c06-9310-dcaf97ebaf3d" />
